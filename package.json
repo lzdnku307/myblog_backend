@@ -1,0 +1,23 @@
+{
+  "name": "myblog_backend",
+  "version": "1.0.0",
+  "description": "myblog_backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lzdnku307/myblog_backend.git"
+  },
+  "keywords": [
+    "blog",
+    "backend"
+  ],
+  "author": "lzdnku307",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lzdnku307/myblog_backend/issues"
+  },
+  "homepage": "https://github.com/lzdnku307/myblog_backend#readme"
+}
